@@ -13,8 +13,7 @@ const VOCRExample: React.FC = () => {
   const [file, setFile] = useState<File>();
   const [fields, setFields] = useState<string>();
   const [loading, setLoading] = useState<boolean>(false);
-  const [result, setResult] =
-    useState<Awaited<ReturnType<JigsawType["vision"]["vocr"]>>>();
+  const [result, setResult] = useState<Awaited<ReturnType<JigsawType["vision"]["vocr"]>>>();
 
   const onFileChange = (file: File) => {
     try {
@@ -45,9 +44,7 @@ const VOCRExample: React.FC = () => {
         throw new Error("No fields to extract");
       }
 
-      const fieldsArray = fieldsClean.includes(",")
-        ? fieldsClean.split(",").map((field) => field.trim())
-        : [fieldsClean.trim()];
+      const fieldsArray = fieldsClean.includes(",") ? fieldsClean.split(",").map((field) => field.trim()) : [fieldsClean.trim()];
 
       const blob = new Blob([file as any], { type: file.type });
 
@@ -85,17 +82,11 @@ const VOCRExample: React.FC = () => {
   };
 
   return (
-    <Card className="p-4">
+    <Card className="lg:p-4">
       <CardContent>
         <div className="flex flex-col">
           <p className="mt-2 pb-1 text-sm font-medium">Image Upload</p>
-          {file && (
-            <img
-              src={URL.createObjectURL(file)}
-              alt="uploaded image"
-              className="object-contain max-h-[300px] py-2"
-            />
-          )}
+          {file && <img src={URL.createObjectURL(file)} alt="uploaded image" className="object-contain max-h-[300px] py-2" />}
           <Input
             type={"file"}
             accept={".png,.jpg,.jpeg"}
@@ -112,9 +103,7 @@ const VOCRExample: React.FC = () => {
               setFields(e.target.value);
             }}
           />
-          <p className="pt-0.5 text-xs text-muted-foreground">
-            Separate each field with a comma
-          </p>
+          <p className="pt-0.5 text-xs text-muted-foreground">Separate each field with a comma</p>
         </div>
       </CardContent>
       <CardFooter>
@@ -127,9 +116,7 @@ const VOCRExample: React.FC = () => {
       {result && (
         <CardContent>
           <p className="pb-1 text-sm font-medium">Results</p>
-          <pre className="text-xs whitespace-pre-wrap max-h-[300px] overflow-y-scroll">
-            {JSON.stringify(result, null, 2)}
-          </pre>
+          <pre className="text-xs whitespace-pre-wrap max-h-[300px] overflow-y-scroll">{JSON.stringify(result, null, 2)}</pre>
         </CardContent>
       )}
     </Card>

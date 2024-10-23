@@ -1,0 +1,2852 @@
+[
+  {
+    "accent": "af-ZA-female-1",
+    "locale_name": "Afrikaans (South Africa)",
+    "gender": "female"
+  },
+  {
+    "accent": "af-ZA-male-1",
+    "locale_name": "Afrikaans (South Africa)",
+    "gender": "male"
+  },
+  {
+    "accent": "am-ET-female-1",
+    "locale_name": "Amharic (Ethiopia)",
+    "gender": "female"
+  },
+  {
+    "accent": "am-ET-male-1",
+    "locale_name": "Amharic (Ethiopia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-AE-female-1",
+    "locale_name": "Arabic (United Arab Emirates)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-AE-male-1",
+    "locale_name": "Arabic (United Arab Emirates)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-BH-female-1",
+    "locale_name": "Arabic (Bahrain)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-BH-male-1",
+    "locale_name": "Arabic (Bahrain)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-DZ-female-1",
+    "locale_name": "Arabic (Algeria)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-DZ-male-1",
+    "locale_name": "Arabic (Algeria)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-EG-female-1",
+    "locale_name": "Arabic (Egypt)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-EG-male-1",
+    "locale_name": "Arabic (Egypt)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-IQ-female-1",
+    "locale_name": "Arabic (Iraq)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-IQ-male-1",
+    "locale_name": "Arabic (Iraq)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-JO-female-1",
+    "locale_name": "Arabic (Jordan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-JO-male-1",
+    "locale_name": "Arabic (Jordan)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-KW-female-1",
+    "locale_name": "Arabic (Kuwait)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-KW-male-1",
+    "locale_name": "Arabic (Kuwait)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-LB-female-1",
+    "locale_name": "Arabic (Lebanon)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-LB-male-1",
+    "locale_name": "Arabic (Lebanon)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-LY-female-1",
+    "locale_name": "Arabic (Libya)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-LY-male-1",
+    "locale_name": "Arabic (Libya)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-MA-female-1",
+    "locale_name": "Arabic (Morocco)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-MA-male-1",
+    "locale_name": "Arabic (Morocco)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-OM-female-1",
+    "locale_name": "Arabic (Oman)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-OM-male-1",
+    "locale_name": "Arabic (Oman)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-QA-female-1",
+    "locale_name": "Arabic (Qatar)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-QA-male-1",
+    "locale_name": "Arabic (Qatar)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-SA-female-1",
+    "locale_name": "Arabic (Saudi Arabia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-SA-male-1",
+    "locale_name": "Arabic (Saudi Arabia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-SY-female-1",
+    "locale_name": "Arabic (Syria)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-SY-male-1",
+    "locale_name": "Arabic (Syria)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-TN-female-1",
+    "locale_name": "Arabic (Tunisia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-TN-male-1",
+    "locale_name": "Arabic (Tunisia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ar-YE-female-1",
+    "locale_name": "Arabic (Yemen)",
+    "gender": "female"
+  },
+  {
+    "accent": "ar-YE-male-1",
+    "locale_name": "Arabic (Yemen)",
+    "gender": "male"
+  },
+  {
+    "accent": "as-IN-male-1",
+    "locale_name": "Assamese (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "as-IN-female-1",
+    "locale_name": "Assamese (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "az-AZ-female-1",
+    "locale_name": "Azerbaijani (Latin, Azerbaijan)",
+    "gender": "female"
+  },
+  {
+    "accent": "az-AZ-male-1",
+    "locale_name": "Azerbaijani (Latin, Azerbaijan)",
+    "gender": "male"
+  },
+  {
+    "accent": "bg-BG-female-1",
+    "locale_name": "Bulgarian (Bulgaria)",
+    "gender": "female"
+  },
+  {
+    "accent": "bg-BG-male-1",
+    "locale_name": "Bulgarian (Bulgaria)",
+    "gender": "male"
+  },
+  {
+    "accent": "bn-BD-female-1",
+    "locale_name": "Bangla (Bangladesh)",
+    "gender": "female"
+  },
+  {
+    "accent": "bn-BD-male-1",
+    "locale_name": "Bangla (Bangladesh)",
+    "gender": "male"
+  },
+  {
+    "accent": "bn-IN-female-1",
+    "locale_name": "Bengali (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "bn-IN-male-1",
+    "locale_name": "Bengali (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "bs-BA-female-1",
+    "locale_name": "Bosnian (Bosnia and Herzegovina)",
+    "gender": "female"
+  },
+  {
+    "accent": "bs-BA-male-1",
+    "locale_name": "Bosnian (Bosnia and Herzegovina)",
+    "gender": "male"
+  },
+  {
+    "accent": "ca-ES-female-1",
+    "locale_name": "Catalan (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "ca-ES-male-1",
+    "locale_name": "Catalan (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "ca-ES-female-2",
+    "locale_name": "Catalan (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "cs-CZ-female-1",
+    "locale_name": "Czech (Czechia)",
+    "gender": "female"
+  },
+  {
+    "accent": "cs-CZ-male-1",
+    "locale_name": "Czech (Czechia)",
+    "gender": "male"
+  },
+  {
+    "accent": "cy-GB-female-1",
+    "locale_name": "Welsh (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "cy-GB-male-1",
+    "locale_name": "Welsh (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "da-DK-female-1",
+    "locale_name": "Danish (Denmark)",
+    "gender": "female"
+  },
+  {
+    "accent": "da-DK-male-1",
+    "locale_name": "Danish (Denmark)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-AT-female-1",
+    "locale_name": "German (Austria)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-AT-male-1",
+    "locale_name": "German (Austria)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-CH-female-1",
+    "locale_name": "German (Switzerland)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-CH-male-1",
+    "locale_name": "German (Switzerland)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-1",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-1",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-2",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-2",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-male-3",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-3",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-4",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-male-5",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-4",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-6",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-male-7",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-5",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-8",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-6",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-female-7",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-male-9",
+    "locale_name": "German (Germany)",
+    "gender": "male"
+  },
+  {
+    "accent": "de-DE-female-8",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-female-9",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "de-DE-female-10",
+    "locale_name": "German (Germany)",
+    "gender": "female"
+  },
+  {
+    "accent": "el-GR-female-2",
+    "locale_name": "Greek (Greece)",
+    "gender": "female"
+  },
+  {
+    "accent": "el-GR-male-2",
+    "locale_name": "Greek (Greece)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-female-2",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-male-2",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-female-3",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-female-4",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-male-3",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-male-4",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-female-5",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-female-6",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-female-7",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-male-5",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-female-8",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-AU-male-6",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-male-7",
+    "locale_name": "English (Australia)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-AU-female-9",
+    "locale_name": "English (Australia)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-CA-female-2",
+    "locale_name": "English (Canada)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-CA-male-2",
+    "locale_name": "English (Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-2",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-2",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-3",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-female-4",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-3",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-5",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-4",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-male-5",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-6",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-female-7",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-6",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-male-7",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-8",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-8",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-9",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-female-10",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-GB-male-9",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-male-10",
+    "locale_name": "English (United Kingdom)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-GB-female-11",
+    "locale_name": "English (United Kingdom)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-HK-female-1",
+    "locale_name": "English (Hong Kong SAR)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-HK-male-1",
+    "locale_name": "English (Hong Kong SAR)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-IE-female-3",
+    "locale_name": "English (Ireland)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-IE-male-3",
+    "locale_name": "English (Ireland)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-IN-female-3",
+    "locale_name": "English (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-IN-male-3",
+    "locale_name": "English (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-IN-male-4",
+    "locale_name": "English (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-IN-female-4",
+    "locale_name": "English (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-IN-female-5",
+    "locale_name": "English (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-IN-female-6",
+    "locale_name": "English (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-IN-male-5",
+    "locale_name": "English (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-IN-male-6",
+    "locale_name": "English (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-KE-female-1",
+    "locale_name": "English (Kenya)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-KE-male-1",
+    "locale_name": "English (Kenya)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-NG-female-1",
+    "locale_name": "English (Nigeria)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-NG-male-1",
+    "locale_name": "English (Nigeria)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-NZ-female-1",
+    "locale_name": "English (New Zealand)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-NZ-male-1",
+    "locale_name": "English (New Zealand)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-PH-female-1",
+    "locale_name": "English (Philippines)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-PH-male-1",
+    "locale_name": "English (Philippines)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-SG-female-1",
+    "locale_name": "English (Singapore)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-SG-male-1",
+    "locale_name": "English (Singapore)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-TZ-female-1",
+    "locale_name": "English (Tanzania)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-TZ-male-1",
+    "locale_name": "English (Tanzania)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-3",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-4",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-3",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-4",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-5",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-6",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-5",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-6",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-7",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-7",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-8",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-8",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-9",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-9",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-10",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-10",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-11",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-11",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-12",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-12",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-13",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-14",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-15",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-16",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-13",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-14",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-17",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-18",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-15",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-16",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-19",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-20",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-21",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-22",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-17",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-18",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-19",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-20",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-21",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-23",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-22",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-23",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-neutral-1",
+    "locale_name": "English (United States)",
+    "gender": "neutral"
+  },
+  {
+    "accent": "en-US-male-24",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-25",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-26",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-27",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-24",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-25",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-26",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-27",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-28",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-female-28",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-29",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-female-30",
+    "locale_name": "English (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-US-male-29",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-US-male-30",
+    "locale_name": "English (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "en-ZA-female-1",
+    "locale_name": "English (South Africa)",
+    "gender": "female"
+  },
+  {
+    "accent": "en-ZA-male-1",
+    "locale_name": "English (South Africa)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-AR-female-1",
+    "locale_name": "Spanish (Argentina)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-AR-male-1",
+    "locale_name": "Spanish (Argentina)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-BO-female-1",
+    "locale_name": "Spanish (Bolivia)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-BO-male-1",
+    "locale_name": "Spanish (Bolivia)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-CL-female-1",
+    "locale_name": "Spanish (Chile)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-CL-male-1",
+    "locale_name": "Spanish (Chile)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-CO-female-1",
+    "locale_name": "Spanish (Colombia)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-CO-male-1",
+    "locale_name": "Spanish (Colombia)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-CR-female-1",
+    "locale_name": "Spanish (Costa Rica)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-CR-male-1",
+    "locale_name": "Spanish (Costa Rica)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-CU-female-1",
+    "locale_name": "Spanish (Cuba)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-CU-male-1",
+    "locale_name": "Spanish (Cuba)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-DO-female-1",
+    "locale_name": "Spanish (Dominican Republic)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-DO-male-1",
+    "locale_name": "Spanish (Dominican Republic)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-EC-female-1",
+    "locale_name": "Spanish (Ecuador)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-EC-male-1",
+    "locale_name": "Spanish (Ecuador)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-female-9",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-male-10",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-female-10",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-male-11",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-male-12",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-male-13",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-female-11",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-12",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-13",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-14",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-male-14",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-male-15",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-male-16",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-female-15",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-16",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-17",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-18",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-19",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-20",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-21",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-male-17",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-male-18",
+    "locale_name": "Spanish (Spain)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-ES-female-22",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-ES-female-23",
+    "locale_name": "Spanish (Spain)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-GQ-female-1",
+    "locale_name": "Spanish (Equatorial Guinea)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-GQ-male-1",
+    "locale_name": "Spanish (Equatorial Guinea)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-GT-female-1",
+    "locale_name": "Spanish (Guatemala)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-GT-male-1",
+    "locale_name": "Spanish (Guatemala)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-HN-female-1",
+    "locale_name": "Spanish (Honduras)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-HN-male-1",
+    "locale_name": "Spanish (Honduras)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-female-12",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-male-11",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-female-13",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-female-14",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-female-15",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-male-12",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-male-13",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-female-16",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-male-14",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-male-15",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-female-17",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-female-18",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-male-16",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-MX-female-19",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-MX-male-17",
+    "locale_name": "Spanish (Mexico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-NI-female-1",
+    "locale_name": "Spanish (Nicaragua)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-NI-male-1",
+    "locale_name": "Spanish (Nicaragua)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-PA-female-1",
+    "locale_name": "Spanish (Panama)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-PA-male-1",
+    "locale_name": "Spanish (Panama)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-PE-female-1",
+    "locale_name": "Spanish (Peru)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-PE-male-1",
+    "locale_name": "Spanish (Peru)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-PR-female-1",
+    "locale_name": "Spanish (Puerto Rico)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-PR-male-1",
+    "locale_name": "Spanish (Puerto Rico)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-PY-female-1",
+    "locale_name": "Spanish (Paraguay)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-PY-male-1",
+    "locale_name": "Spanish (Paraguay)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-SV-female-1",
+    "locale_name": "Spanish (El Salvador)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-SV-male-1",
+    "locale_name": "Spanish (El Salvador)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-US-female-1",
+    "locale_name": "Spanish (United States)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-US-male-1",
+    "locale_name": "Spanish (United States)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-UY-female-1",
+    "locale_name": "Spanish (Uruguay)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-UY-male-1",
+    "locale_name": "Spanish (Uruguay)",
+    "gender": "male"
+  },
+  {
+    "accent": "es-VE-female-1",
+    "locale_name": "Spanish (Venezuela)",
+    "gender": "female"
+  },
+  {
+    "accent": "es-VE-male-1",
+    "locale_name": "Spanish (Venezuela)",
+    "gender": "male"
+  },
+  {
+    "accent": "et-EE-female-11",
+    "locale_name": "Estonian (Estonia)",
+    "gender": "female"
+  },
+  {
+    "accent": "et-EE-male-10",
+    "locale_name": "Estonian (Estonia)",
+    "gender": "male"
+  },
+  {
+    "accent": "eu-ES-female-11",
+    "locale_name": "Basque",
+    "gender": "female"
+  },
+  {
+    "accent": "eu-ES-male-10",
+    "locale_name": "Basque",
+    "gender": "male"
+  },
+  {
+    "accent": "fa-IR-female-11",
+    "locale_name": "Persian (Iran)",
+    "gender": "female"
+  },
+  {
+    "accent": "fa-IR-male-10",
+    "locale_name": "Persian (Iran)",
+    "gender": "male"
+  },
+  {
+    "accent": "fi-FI-female-12",
+    "locale_name": "Finnish (Finland)",
+    "gender": "female"
+  },
+  {
+    "accent": "fi-FI-male-11",
+    "locale_name": "Finnish (Finland)",
+    "gender": "male"
+  },
+  {
+    "accent": "fi-FI-female-13",
+    "locale_name": "Finnish (Finland)",
+    "gender": "female"
+  },
+  {
+    "accent": "fil-PH-female-11",
+    "locale_name": "Filipino (Philippines)",
+    "gender": "female"
+  },
+  {
+    "accent": "fil-PH-male-10",
+    "locale_name": "Filipino (Philippines)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-BE-female-12",
+    "locale_name": "French (Belgium)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-BE-male-11",
+    "locale_name": "French (Belgium)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-CA-female-12",
+    "locale_name": "French (Canada)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-CA-male-11",
+    "locale_name": "French (Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-CA-male-12",
+    "locale_name": "French (Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-CA-male-13",
+    "locale_name": "French (Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-CH-female-12",
+    "locale_name": "French (Switzerland)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-CH-male-11",
+    "locale_name": "French (Switzerland)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-12",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-11",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-male-12",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-13",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-female-14",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-13",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-15",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-female-16",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-female-17",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-14",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-18",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-15",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-male-16",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-male-17",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-19",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-female-20",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-18",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-female-21",
+    "locale_name": "French (France)",
+    "gender": "female"
+  },
+  {
+    "accent": "fr-FR-male-19",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "fr-FR-male-20",
+    "locale_name": "French (France)",
+    "gender": "male"
+  },
+  {
+    "accent": "ga-IE-female-12",
+    "locale_name": "Irish (Ireland)",
+    "gender": "female"
+  },
+  {
+    "accent": "ga-IE-male-12",
+    "locale_name": "Irish (Ireland)",
+    "gender": "male"
+  },
+  {
+    "accent": "gl-ES-female-12",
+    "locale_name": "Galician",
+    "gender": "female"
+  },
+  {
+    "accent": "gl-ES-male-12",
+    "locale_name": "Galician",
+    "gender": "male"
+  },
+  {
+    "accent": "gu-IN-female-1",
+    "locale_name": "Gujarati (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "gu-IN-male-1",
+    "locale_name": "Gujarati (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "he-IL-female-12",
+    "locale_name": "Hebrew (Israel)",
+    "gender": "female"
+  },
+  {
+    "accent": "he-IL-male-12",
+    "locale_name": "Hebrew (Israel)",
+    "gender": "male"
+  },
+  {
+    "accent": "hi-IN-female-13",
+    "locale_name": "Hindi (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "hi-IN-male-13",
+    "locale_name": "Hindi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "hi-IN-male-14",
+    "locale_name": "Hindi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "hi-IN-female-14",
+    "locale_name": "Hindi (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "hi-IN-female-15",
+    "locale_name": "Hindi (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "hi-IN-male-15",
+    "locale_name": "Hindi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "hi-IN-male-16",
+    "locale_name": "Hindi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "hr-HR-female-12",
+    "locale_name": "Croatian (Croatia)",
+    "gender": "female"
+  },
+  {
+    "accent": "hr-HR-male-12",
+    "locale_name": "Croatian (Croatia)",
+    "gender": "male"
+  },
+  {
+    "accent": "hu-HU-female-13",
+    "locale_name": "Hungarian (Hungary)",
+    "gender": "female"
+  },
+  {
+    "accent": "hu-HU-male-13",
+    "locale_name": "Hungarian (Hungary)",
+    "gender": "male"
+  },
+  {
+    "accent": "hy-AM-female-12",
+    "locale_name": "Armenian (Armenia)",
+    "gender": "female"
+  },
+  {
+    "accent": "hy-AM-male-12",
+    "locale_name": "Armenian (Armenia)",
+    "gender": "male"
+  },
+  {
+    "accent": "id-ID-female-13",
+    "locale_name": "Indonesian (Indonesia)",
+    "gender": "female"
+  },
+  {
+    "accent": "id-ID-male-13",
+    "locale_name": "Indonesian (Indonesia)",
+    "gender": "male"
+  },
+  {
+    "accent": "is-IS-female-12",
+    "locale_name": "Icelandic (Iceland)",
+    "gender": "female"
+  },
+  {
+    "accent": "is-IS-male-12",
+    "locale_name": "Icelandic (Iceland)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-female-13",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-female-14",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-male-13",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-14",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-15",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-16",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-female-15",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-female-16",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-male-17",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-18",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-female-17",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-female-18",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-male-19",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-female-19",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-female-20",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-male-20",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-21",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-22",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-23",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-24",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-female-21",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-female-22",
+    "locale_name": "Italian (Italy)",
+    "gender": "female"
+  },
+  {
+    "accent": "it-IT-male-25",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "it-IT-male-26",
+    "locale_name": "Italian (Italy)",
+    "gender": "male"
+  },
+  {
+    "accent": "iu-Cans-CA-female-1",
+    "locale_name": "Inuktitut (Syllabics, Canada)",
+    "gender": "female"
+  },
+  {
+    "accent": "iu-Cans-CA-male-1",
+    "locale_name": "Inuktitut (Syllabics, Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "iu-Latn-CA-female-1",
+    "locale_name": "Inuktitut (Latin, Canada)",
+    "gender": "female"
+  },
+  {
+    "accent": "iu-Latn-CA-male-1",
+    "locale_name": "Inuktitut (Latin, Canada)",
+    "gender": "male"
+  },
+  {
+    "accent": "ja-JP-female-14",
+    "locale_name": "Japanese (Japan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ja-JP-male-16",
+    "locale_name": "Japanese (Japan)",
+    "gender": "male"
+  },
+  {
+    "accent": "ja-JP-female-15",
+    "locale_name": "Japanese (Japan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ja-JP-male-17",
+    "locale_name": "Japanese (Japan)",
+    "gender": "male"
+  },
+  {
+    "accent": "ja-JP-female-16",
+    "locale_name": "Japanese (Japan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ja-JP-male-18",
+    "locale_name": "Japanese (Japan)",
+    "gender": "male"
+  },
+  {
+    "accent": "ja-JP-female-17",
+    "locale_name": "Japanese (Japan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ja-JP-male-19",
+    "locale_name": "Japanese (Japan)",
+    "gender": "male"
+  },
+  {
+    "accent": "ja-JP-male-20",
+    "locale_name": "Japanese (Japan)",
+    "gender": "male"
+  },
+  {
+    "accent": "jv-ID-female-13",
+    "locale_name": "Javanese (Latin, Indonesia)",
+    "gender": "female"
+  },
+  {
+    "accent": "jv-ID-male-16",
+    "locale_name": "Javanese (Latin, Indonesia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ka-GE-female-13",
+    "locale_name": "Georgian (Georgia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ka-GE-male-16",
+    "locale_name": "Georgian (Georgia)",
+    "gender": "male"
+  },
+  {
+    "accent": "kk-KZ-female-13",
+    "locale_name": "Kazakh (Kazakhstan)",
+    "gender": "female"
+  },
+  {
+    "accent": "kk-KZ-male-16",
+    "locale_name": "Kazakh (Kazakhstan)",
+    "gender": "male"
+  },
+  {
+    "accent": "km-KH-female-13",
+    "locale_name": "Khmer (Cambodia)",
+    "gender": "female"
+  },
+  {
+    "accent": "km-KH-male-16",
+    "locale_name": "Khmer (Cambodia)",
+    "gender": "male"
+  },
+  {
+    "accent": "kn-IN-female-13",
+    "locale_name": "Kannada (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "kn-IN-male-16",
+    "locale_name": "Kannada (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-female-14",
+    "locale_name": "Korean (Korea)",
+    "gender": "female"
+  },
+  {
+    "accent": "ko-KR-male-17",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-male-18",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-male-19",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-male-20",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-female-15",
+    "locale_name": "Korean (Korea)",
+    "gender": "female"
+  },
+  {
+    "accent": "ko-KR-female-16",
+    "locale_name": "Korean (Korea)",
+    "gender": "female"
+  },
+  {
+    "accent": "ko-KR-female-17",
+    "locale_name": "Korean (Korea)",
+    "gender": "female"
+  },
+  {
+    "accent": "ko-KR-female-18",
+    "locale_name": "Korean (Korea)",
+    "gender": "female"
+  },
+  {
+    "accent": "ko-KR-male-21",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "ko-KR-male-22",
+    "locale_name": "Korean (Korea)",
+    "gender": "male"
+  },
+  {
+    "accent": "lo-LA-female-13",
+    "locale_name": "Lao (Laos)",
+    "gender": "female"
+  },
+  {
+    "accent": "lo-LA-male-17",
+    "locale_name": "Lao (Laos)",
+    "gender": "male"
+  },
+  {
+    "accent": "lt-LT-female-13",
+    "locale_name": "Lithuanian (Lithuania)",
+    "gender": "female"
+  },
+  {
+    "accent": "lt-LT-male-17",
+    "locale_name": "Lithuanian (Lithuania)",
+    "gender": "male"
+  },
+  {
+    "accent": "lv-LV-female-13",
+    "locale_name": "Latvian (Latvia)",
+    "gender": "female"
+  },
+  {
+    "accent": "lv-LV-male-17",
+    "locale_name": "Latvian (Latvia)",
+    "gender": "male"
+  },
+  {
+    "accent": "mk-MK-female-13",
+    "locale_name": "Macedonian (North Macedonia)",
+    "gender": "female"
+  },
+  {
+    "accent": "mk-MK-male-17",
+    "locale_name": "Macedonian (North Macedonia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ml-IN-female-13",
+    "locale_name": "Malayalam (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "ml-IN-male-17",
+    "locale_name": "Malayalam (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "mn-MN-female-13",
+    "locale_name": "Mongolian (Mongolia)",
+    "gender": "female"
+  },
+  {
+    "accent": "mn-MN-male-17",
+    "locale_name": "Mongolian (Mongolia)",
+    "gender": "male"
+  },
+  {
+    "accent": "mr-IN-female-1",
+    "locale_name": "Marathi (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "mr-IN-male-1",
+    "locale_name": "Marathi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "ms-MY-female-13",
+    "locale_name": "Malay (Malaysia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ms-MY-male-17",
+    "locale_name": "Malay (Malaysia)",
+    "gender": "male"
+  },
+  {
+    "accent": "mt-MT-female-13",
+    "locale_name": "Maltese (Malta)",
+    "gender": "female"
+  },
+  {
+    "accent": "mt-MT-male-17",
+    "locale_name": "Maltese (Malta)",
+    "gender": "male"
+  },
+  {
+    "accent": "my-MM-female-13",
+    "locale_name": "Burmese (Myanmar)",
+    "gender": "female"
+  },
+  {
+    "accent": "my-MM-male-17",
+    "locale_name": "Burmese (Myanmar)",
+    "gender": "male"
+  },
+  {
+    "accent": "nb-NO-female-14",
+    "locale_name": "Norwegian Bokmål (Norway)",
+    "gender": "female"
+  },
+  {
+    "accent": "nb-NO-male-18",
+    "locale_name": "Norwegian Bokmål (Norway)",
+    "gender": "male"
+  },
+  {
+    "accent": "nb-NO-female-15",
+    "locale_name": "Norwegian Bokmål (Norway)",
+    "gender": "female"
+  },
+  {
+    "accent": "ne-NP-female-13",
+    "locale_name": "Nepali (Nepal)",
+    "gender": "female"
+  },
+  {
+    "accent": "ne-NP-male-17",
+    "locale_name": "Nepali (Nepal)",
+    "gender": "male"
+  },
+  {
+    "accent": "nl-BE-female-14",
+    "locale_name": "Dutch (Belgium)",
+    "gender": "female"
+  },
+  {
+    "accent": "nl-BE-male-18",
+    "locale_name": "Dutch (Belgium)",
+    "gender": "male"
+  },
+  {
+    "accent": "nl-NL-female-14",
+    "locale_name": "Dutch (Netherlands)",
+    "gender": "female"
+  },
+  {
+    "accent": "nl-NL-male-18",
+    "locale_name": "Dutch (Netherlands)",
+    "gender": "male"
+  },
+  {
+    "accent": "nl-NL-female-15",
+    "locale_name": "Dutch (Netherlands)",
+    "gender": "female"
+  },
+  {
+    "accent": "or-IN-female-1",
+    "locale_name": "Oriya (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "or-IN-male-1",
+    "locale_name": "Oriya (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "pa-IN-male-1",
+    "locale_name": "Punjabi (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "pa-IN-female-1",
+    "locale_name": "Punjabi (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "pl-PL-female-14",
+    "locale_name": "Polish (Poland)",
+    "gender": "female"
+  },
+  {
+    "accent": "pl-PL-male-18",
+    "locale_name": "Polish (Poland)",
+    "gender": "male"
+  },
+  {
+    "accent": "pl-PL-female-15",
+    "locale_name": "Polish (Poland)",
+    "gender": "female"
+  },
+  {
+    "accent": "ps-AF-female-13",
+    "locale_name": "Pashto (Afghanistan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ps-AF-male-17",
+    "locale_name": "Pashto (Afghanistan)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-14",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-18",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-15",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-19",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-16",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-20",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-17",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-21",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-male-22",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-18",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-female-19",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-female-20",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-23",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-21",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-24",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-22",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-male-25",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-male-26",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-BR-female-23",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-BR-female-24",
+    "locale_name": "Portuguese (Brazil)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-PT-female-15",
+    "locale_name": "Portuguese (Portugal)",
+    "gender": "female"
+  },
+  {
+    "accent": "pt-PT-male-19",
+    "locale_name": "Portuguese (Portugal)",
+    "gender": "male"
+  },
+  {
+    "accent": "pt-PT-female-16",
+    "locale_name": "Portuguese (Portugal)",
+    "gender": "female"
+  },
+  {
+    "accent": "ro-RO-female-14",
+    "locale_name": "Romanian (Romania)",
+    "gender": "female"
+  },
+  {
+    "accent": "ro-RO-male-18",
+    "locale_name": "Romanian (Romania)",
+    "gender": "male"
+  },
+  {
+    "accent": "ru-RU-female-15",
+    "locale_name": "Russian (Russia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ru-RU-male-19",
+    "locale_name": "Russian (Russia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ru-RU-female-16",
+    "locale_name": "Russian (Russia)",
+    "gender": "female"
+  },
+  {
+    "accent": "si-LK-female-14",
+    "locale_name": "Sinhala (Sri Lanka)",
+    "gender": "female"
+  },
+  {
+    "accent": "si-LK-male-18",
+    "locale_name": "Sinhala (Sri Lanka)",
+    "gender": "male"
+  },
+  {
+    "accent": "sk-SK-female-14",
+    "locale_name": "Slovak (Slovakia)",
+    "gender": "female"
+  },
+  {
+    "accent": "sk-SK-male-18",
+    "locale_name": "Slovak (Slovakia)",
+    "gender": "male"
+  },
+  {
+    "accent": "sl-SI-female-14",
+    "locale_name": "Slovenian (Slovenia)",
+    "gender": "female"
+  },
+  {
+    "accent": "sl-SI-male-18",
+    "locale_name": "Slovenian (Slovenia)",
+    "gender": "male"
+  },
+  {
+    "accent": "so-SO-female-14",
+    "locale_name": "Somali (Somalia)",
+    "gender": "female"
+  },
+  {
+    "accent": "so-SO-male-18",
+    "locale_name": "Somali (Somalia)",
+    "gender": "male"
+  },
+  {
+    "accent": "sq-AL-female-14",
+    "locale_name": "Albanian (Albania)",
+    "gender": "female"
+  },
+  {
+    "accent": "sq-AL-male-18",
+    "locale_name": "Albanian (Albania)",
+    "gender": "male"
+  },
+  {
+    "accent": "sr-Latn-RS-male-1",
+    "locale_name": "Serbian (Latin, Serbia)",
+    "gender": "male"
+  },
+  {
+    "accent": "sr-Latn-RS-female-1",
+    "locale_name": "Serbian (Latin, Serbia)",
+    "gender": "female"
+  },
+  {
+    "accent": "sr-RS-female-14",
+    "locale_name": "Serbian (Cyrillic, Serbia)",
+    "gender": "female"
+  },
+  {
+    "accent": "sr-RS-male-18",
+    "locale_name": "Serbian (Cyrillic, Serbia)",
+    "gender": "male"
+  },
+  {
+    "accent": "su-ID-female-14",
+    "locale_name": "Sundanese (Indonesia)",
+    "gender": "female"
+  },
+  {
+    "accent": "su-ID-male-18",
+    "locale_name": "Sundanese (Indonesia)",
+    "gender": "male"
+  },
+  {
+    "accent": "sv-SE-female-15",
+    "locale_name": "Swedish (Sweden)",
+    "gender": "female"
+  },
+  {
+    "accent": "sv-SE-male-19",
+    "locale_name": "Swedish (Sweden)",
+    "gender": "male"
+  },
+  {
+    "accent": "sv-SE-female-16",
+    "locale_name": "Swedish (Sweden)",
+    "gender": "female"
+  },
+  {
+    "accent": "sw-KE-female-14",
+    "locale_name": "Swahili (Kenya)",
+    "gender": "female"
+  },
+  {
+    "accent": "sw-KE-male-18",
+    "locale_name": "Swahili (Kenya)",
+    "gender": "male"
+  },
+  {
+    "accent": "sw-TZ-female-1",
+    "locale_name": "Swahili (Tanzania)",
+    "gender": "female"
+  },
+  {
+    "accent": "sw-TZ-male-1",
+    "locale_name": "Swahili (Tanzania)",
+    "gender": "male"
+  },
+  {
+    "accent": "ta-IN-female-14",
+    "locale_name": "Tamil (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "ta-IN-male-18",
+    "locale_name": "Tamil (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "ta-LK-female-1",
+    "locale_name": "Tamil (Sri Lanka)",
+    "gender": "female"
+  },
+  {
+    "accent": "ta-LK-male-1",
+    "locale_name": "Tamil (Sri Lanka)",
+    "gender": "male"
+  },
+  {
+    "accent": "ta-MY-female-1",
+    "locale_name": "Tamil (Malaysia)",
+    "gender": "female"
+  },
+  {
+    "accent": "ta-MY-male-1",
+    "locale_name": "Tamil (Malaysia)",
+    "gender": "male"
+  },
+  {
+    "accent": "ta-SG-female-1",
+    "locale_name": "Tamil (Singapore)",
+    "gender": "female"
+  },
+  {
+    "accent": "ta-SG-male-1",
+    "locale_name": "Tamil (Singapore)",
+    "gender": "male"
+  },
+  {
+    "accent": "te-IN-female-14",
+    "locale_name": "Telugu (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "te-IN-male-18",
+    "locale_name": "Telugu (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "th-TH-female-15",
+    "locale_name": "Thai (Thailand)",
+    "gender": "female"
+  },
+  {
+    "accent": "th-TH-male-19",
+    "locale_name": "Thai (Thailand)",
+    "gender": "male"
+  },
+  {
+    "accent": "th-TH-female-16",
+    "locale_name": "Thai (Thailand)",
+    "gender": "female"
+  },
+  {
+    "accent": "tr-TR-female-15",
+    "locale_name": "Turkish (Turkey)",
+    "gender": "female"
+  },
+  {
+    "accent": "tr-TR-male-19",
+    "locale_name": "Turkish (Turkey)",
+    "gender": "male"
+  },
+  {
+    "accent": "uk-UA-female-14",
+    "locale_name": "Ukrainian (Ukraine)",
+    "gender": "female"
+  },
+  {
+    "accent": "uk-UA-male-18",
+    "locale_name": "Ukrainian (Ukraine)",
+    "gender": "male"
+  },
+  {
+    "accent": "ur-IN-female-1",
+    "locale_name": "Urdu (India)",
+    "gender": "female"
+  },
+  {
+    "accent": "ur-IN-male-1",
+    "locale_name": "Urdu (India)",
+    "gender": "male"
+  },
+  {
+    "accent": "ur-PK-female-14",
+    "locale_name": "Urdu (Pakistan)",
+    "gender": "female"
+  },
+  {
+    "accent": "ur-PK-male-18",
+    "locale_name": "Urdu (Pakistan)",
+    "gender": "male"
+  },
+  {
+    "accent": "uz-UZ-female-14",
+    "locale_name": "Uzbek (Latin, Uzbekistan)",
+    "gender": "female"
+  },
+  {
+    "accent": "uz-UZ-male-18",
+    "locale_name": "Uzbek (Latin, Uzbekistan)",
+    "gender": "male"
+  },
+  {
+    "accent": "vi-VN-female-14",
+    "locale_name": "Vietnamese (Vietnam)",
+    "gender": "female"
+  },
+  {
+    "accent": "vi-VN-male-18",
+    "locale_name": "Vietnamese (Vietnam)",
+    "gender": "male"
+  },
+  {
+    "accent": "wuu-CN-female-1",
+    "locale_name": "Chinese (Wu, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "wuu-CN-male-1",
+    "locale_name": "Chinese (Wu, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "yue-CN-female-1",
+    "locale_name": "Chinese (Cantonese, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "yue-CN-male-1",
+    "locale_name": "Chinese (Cantonese, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-female-15",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-male-19",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-20",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-female-16",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-male-21",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-female-17",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-18",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-19",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-20",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-21",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-22",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-23",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-24",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-25",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-26",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-27",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-28",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-29",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-30",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-31",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-32",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-33",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-female-34",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-male-22",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-23",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-24",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-25",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-26",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-27",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-28",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-29",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-30",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-31",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-32",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-male-33",
+    "locale_name": "Chinese (Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-guangxi-male-1",
+    "locale_name": "Chinese (Guangxi Accent Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-henan-male-1",
+    "locale_name": "Chinese (Zhongyuan Mandarin Henan, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-liaoning-female-2",
+    "locale_name": "Chinese (Northeastern Mandarin, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-liaoning-male-1",
+    "locale_name": "Chinese (Northeastern Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-shaanxi-female-2",
+    "locale_name": "Chinese (Zhongyuan Mandarin Shaanxi, Simplified)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-CN-shandong-male-1",
+    "locale_name": "Chinese (Jilu Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-CN-sichuan-male-1",
+    "locale_name": "Chinese (Southwestern Mandarin, Simplified)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-HK-female-18",
+    "locale_name": "Chinese (Cantonese, Traditional)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-HK-male-22",
+    "locale_name": "Chinese (Cantonese, Traditional)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-HK-female-19",
+    "locale_name": "Chinese (Cantonese, Traditional)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-TW-female-19",
+    "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+    "gender": "female"
+  },
+  {
+    "accent": "zh-TW-male-22",
+    "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+    "gender": "male"
+  },
+  {
+    "accent": "zh-TW-female-20",
+    "locale_name": "Chinese (Taiwanese Mandarin, Traditional)",
+    "gender": "female"
+  },
+  {
+    "accent": "zu-ZA-female-17",
+    "locale_name": "Zulu (South Africa)",
+    "gender": "female"
+  },
+  {
+    "accent": "zu-ZA-male-21",
+    "locale_name": "Zulu (South Africa)",
+    "gender": "male"
+  }
+]

@@ -6,13 +6,7 @@ import { useToast } from "@/hooks/use-toast";
 import { JigsawType } from "@/lib/JJS";
 import ky from "ky";
 import { Loader2 } from "lucide-react";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import languages from "@/lib/languages.json";
 import { Textarea } from "@/components/ui/textarea";
 
@@ -21,8 +15,7 @@ const TranslationExample: React.FC = () => {
   const [text, setText] = useState<string>();
   const [target_language, setTargetLanguage] = useState<string>("fr");
   const [loading, setLoading] = useState<boolean>(false);
-  const [result, setResult] =
-    useState<Awaited<ReturnType<JigsawType["translate"]>>>();
+  const [result, setResult] = useState<Awaited<ReturnType<JigsawType["translate"]>>>();
 
   const onInputChange = (text: string, type: "text" | "target_language") => {
     if (type === "text") {
@@ -65,7 +58,7 @@ const TranslationExample: React.FC = () => {
   };
 
   return (
-    <Card className="p-4">
+    <Card className="lg:p-4">
       <CardContent>
         <div className="flex flex-col">
           <p className="mt-2 pb-1 text-sm font-medium">Text to translate</p>
@@ -105,9 +98,7 @@ const TranslationExample: React.FC = () => {
       {result && (
         <CardContent>
           <p className="pb-1 text-sm font-medium">Results</p>
-          <pre className="text-xs whitespace-pre-wrap max-h-[300px] overflow-y-scroll">
-            {JSON.stringify(result, null, 2)}
-          </pre>
+          <pre className="text-xs whitespace-pre-wrap max-h-[300px] overflow-y-scroll">{JSON.stringify(result, null, 2)}</pre>
         </CardContent>
       )}
     </Card>
