@@ -2,8 +2,6 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import VOCRExample from "@/components/examples/VOCRExample";
 import TranslationExample from "@/components/examples/TranslationExample";
 import SentimentExample from "@/components/examples/SentimentExample";
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import ColorModeToggle from "@/components/ColorModeToggle";
 
 export default function Home() {

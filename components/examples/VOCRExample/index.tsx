@@ -22,10 +22,10 @@ const VOCRExample: React.FC = () => {
         throw new Error("No file uploaded");
       }
       setFile(file);
-    } catch (error) {
+    } catch (e: any) {
       toast({
         title: "Error",
-        description: "No file uploaded",
+        description: e?.message,
       });
     }
   };
@@ -78,9 +78,10 @@ const VOCRExample: React.FC = () => {
 
     setLoading(false);
 
-    fileKey && (await jigsawClient.store.delete(fileKey).then(()=>{
-      console.log("delete file completed")
-    }));
+    fileKey &&
+      (await jigsawClient.store.delete(fileKey).then(() => {
+        console.log("delete file completed");
+      }));
   };
 
   return (
