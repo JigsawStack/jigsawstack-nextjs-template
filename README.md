@@ -4,9 +4,9 @@
 This project leverages JigsawStack's AI SDK to help you achieve the following:
 
 - vOCR: Extracts information from images with advanced optical character recognition (OCR).
-- Sentiment Analysis: Analyzes text to determine its sentiment (positive, negative, or neutral).
+- Sentiment Analysis: Analyzes text to determine its sentiment and emotion.
 - Translation: Translates text into the desired target language.
-- Text-to-Speech (TTS): Converts written text into high-quality speech output.
+- Text-to-Speech (TTS): Converts text into high-quality speech output.
 
 
 ![JigsawStack VOCR](./public/screenshot.png)
