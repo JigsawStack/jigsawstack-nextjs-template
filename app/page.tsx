@@ -38,7 +38,7 @@ export default function Home() {
                   <img src="/nextjs_logo.svg" alt="NextJS" className="dark:invert lg:w-[12rem] w-[10rem]" />
                 </a>
               </div>
-              <h1 className="text-3xl lg:text-4xl font-medium text-center pt-[3rem]">The fatest way to get started with JigsawStack in Next.JS</h1>
+              <h1 className="text-3xl lg:text-4xl font-medium text-center pt-[3rem]">The fastest way to get started with JigsawStack in Next.JS</h1>
             </div>
           </TabsContent>
           <TabsContent value="vocr">
