@@ -1,8 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [JigsawStack Next.js Starter](https://www.jigsawStack.com)
 
-## Getting Started
 
-First, run the development server:
+This project leverages JigsawStack's AI SDK to help you achieve the following:
+
+- vOCR: Extracts information from images with advanced optical character recognition (OCR).
+- Sentiment Analysis: Analyzes text to determine its sentiment (positive, negative, or neutral).
+- Translation: Translates text into the desired target language.
+- Text-to-Speech (TTS): Converts written text into high-quality speech output.
+
+
+![JigsawStack VOCR](./public/screenshot.png)
+
+## Running Locally
+
+1. Create an account at [JigsawStack](https://www.jigsawStack.com)
+2. Add your public API key under `NEXT_PUBLIC_JIGSAWSTACK_PUBLIC_KEY` and your secret key under `JIGSAWSTACK_PUBLIC_KEY` in your `.env`
+3. Install the dependencies
+```bash
+npm install
+# or
+yarn install 
+# or
+pnpm install 
+# or
+bun install 
+```
+
+> Ensure to remove `yarn.lock` if you are using another package manager.
+
+4. Run the application with
 
 ```bash
 npm run dev
@@ -14,23 +40,11 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It will be available at `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## One-Click Deploy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deploy the example using
+[Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJigsawStack%2Fjigsawstack-vercel-template&env=NEXT_PUBLIC_JIGSAWSTACK_PUBLIC_KEY,JIGSAWSTACK_PUBLIC_KEY)
