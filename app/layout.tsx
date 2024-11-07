@@ -17,8 +17,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "JigsawStack + Next.js Template",
-  description:
-    "Get started with JigsawStack in NextJS for both your backend and frontend operations",
+  description: "Get started with JigsawStack in NextJS for both your backend and frontend operations",
 };
 
 export default function RootLayout({
@@ -27,16 +26,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
+    <html lang="en" suppressHydrationWarning>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
           <Toaster />
         </ThemeProvider>

@@ -22,8 +22,6 @@ npm install
 yarn install 
 # or
 pnpm install 
-# or
-bun install 
 ```
 
 > Ensure to remove `yarn.lock` if you are using another package manager.
@@ -36,8 +34,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 It will be available at `http://localhost:3000`.

@@ -38,7 +38,21 @@ export default function Home() {
                   <img src="/nextjs_logo.svg" alt="NextJS" className="dark:invert lg:w-[12rem] w-[10rem]" />
                 </a>
               </div>
-              <h1 className="text-3xl lg:text-4xl font-medium text-center pt-[3rem]">The fastest way to get started with JigsawStack in Next.JS</h1>
+              <h1 className="text-3xl lg:text-4xl font-medium text-center pt-[3rem]">The fastest way to get started with JigsawStack in NextJS</h1>
+              <h3 className="text-lg lg:text-xl font-medium text-center pt-[3rem]">Getting started</h3>
+              <ul className="mt-2 ml-6 list-disc [&>li]:mt-2">
+                <li>Create a `.env` file using the `.env.example` file as reference</li>
+                <li>
+                  Get two API keys from{" "}
+                  <a href={"https://jigsawstack.com/dashboard"} target="_blank" className="underline">
+                    JigsawStack
+                  </a>
+                  . One key should be a secret key and the other should be a public key
+                </li>
+                <li>Add the keys to the `.env` file</li>
+                <li>Run `yarn` or use your preferred package manager to install the dependencies</li>
+                <li>Run the application using `yarn dev` or your preferred command</li>
+              </ul>
             </div>
           </TabsContent>
           <TabsContent value="vocr">
