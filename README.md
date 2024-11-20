@@ -1,8 +1,9 @@
 # [JigsawStack Next.js Starter](https://www.jigsawStack.com)
 
 
-This project leverages JigsawStack's AI SDK to help you achieve the following:
+This is a simple starter template that integrates JigsawStack's AI SDK with the NextJS 15 using the app router and more.
 
+The template includes the following examples making it easy to get started:
 - vOCR: Extracts information from images with advanced optical character recognition (OCR).
 - Sentiment Analysis: Analyzes text to determine its sentiment and emotion.
 - Translation: Translates text into the desired target language.

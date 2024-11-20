@@ -7,11 +7,11 @@ import TTSExample from "@/components/examples/TTSExample";
 
 export default function Home() {
   return (
-    <div className="flex flex-col w-full min-h-screen font-[family-name:var(--font-geist-sans)]">
+    <div className="flex flex-col w-full min-h-screen font-[family-name:var(--font-geist-sans)] bg-[url('/bg.png')] bg-cover bg-center">
       {/* Header navigation */}
       <header className="flex justify-between items-center p-4 lg:p-6">
         <div className="flex items-center">
-          <h1 className="text-md lg:text-xl font-semibold mr-2">Next.JS JigsawStack Starter</h1>
+          <h1 className="text-md lg:text-xl font-semibold mr-2">NextJS JigsawStack Starter</h1>
           <ColorModeToggle />
         </div>
         <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJigsawStack%2Fjigsawstack-vercel-template&env=NEXT_PUBLIC_JIGSAWSTACK_PUBLIC_KEY">
