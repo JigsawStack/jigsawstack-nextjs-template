@@ -2134,10 +2134,10 @@ jackspeak@^3.1.2:
   optionalDependencies:
     "@pkgjs/parseargs" "^0.11.0"
 
-jigsawstack@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.npmjs.org/jigsawstack/-/jigsawstack-0.0.13.tgz"
-  integrity sha512-YsgOAowfh56fhMpZu2yVOICo8g6eme6Bi1fVYoc3fkoP6M+Nfck2pwUwL9RNRQuP/s3iqBaCMIhxxpgNoQ5Ikg==
+jigsawstack@^0.0.28:
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/jigsawstack/-/jigsawstack-0.0.28.tgz#2b8d19b40fbe08275dfb26df40bb018794a4c202"
+  integrity sha512-hm5Qf5B9TTech4+8amCwXDFldwc2m4n+PSo35WHvEX+NocW3msCyGreRy9msdWbKV5c27zQQsDV/iHMqQe3CLQ==
   dependencies:
     isomorphic-fetch "^3.0.0"
 

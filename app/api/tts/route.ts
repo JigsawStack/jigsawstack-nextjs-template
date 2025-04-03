@@ -19,10 +19,7 @@ const POST = async (request: Request) => {
       },
     });
   } catch (e: any) {
-    console.error(e);
-    return new Response(JSON.stringify({ error: e?.message || "Unable to complete request" }), {
-      status: 400,
-    });
+    return Response.json({ error: e?.message || "Unable to complete request" }, { status: 400 });
   }
 };
 

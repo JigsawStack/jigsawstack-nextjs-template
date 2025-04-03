@@ -48,9 +48,11 @@ const TranslationExample: React.FC = () => {
 
       setResult(result);
     } catch (e: any) {
+      const errorJson = await e.response.json();
+      console.log("error", errorJson);
       toast({
         title: "Error",
-        description: e?.message,
+        description: errorJson.error,
       });
     }
 

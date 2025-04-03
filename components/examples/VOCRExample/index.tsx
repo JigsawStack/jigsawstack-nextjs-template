@@ -67,9 +67,11 @@ const VOCRExample: React.FC = () => {
 
       setResult(result);
     } catch (e: any) {
+      const errorJson = e?.response?.json ? await e.response.json() : { error: e?.message };
+      console.log("error", errorJson);
       toast({
         title: "Error",
-        description: e?.message,
+        description: errorJson.error,
       });
     }
 
